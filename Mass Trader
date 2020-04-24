@@ -1,7 +1,7 @@
 	<Category> Rifles
 		Massmini14,				W,		600,	300
 		MassKivaari,			W,		600,	300
-		MassM110,				*,		600,	300
+		MassM110,				W,		600,	300
 		
 	<Category> Shotguns
 		MassMP153,				W,      300,   150
