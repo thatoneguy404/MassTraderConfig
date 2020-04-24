@@ -1,0 +1,249 @@
+	<Category> Rifles
+		Massmini14,				W,		600,	300
+		MassKivaari,			W,		600,	300
+		MassM110,				*,		600,	300
+		
+	<Category> Shotguns
+		MassMP153,				W,      300,   150
+		Massarmsan,				W,		300,	150
+		
+	<Category> Submachine Guns
+		MassPPSH41,				W,		650,	300	
+		MassPPSH41_Black,		W,		650,	300	
+		MassPPSH41_Green,		W,		650,	300	
+		MassPPSH41_Camo,		W,		650,	300	
+		
+	<Category> Assault Rifles
+		MassSVT40,				W,		1750,	800	
+		MassSVT40_Black,		W,		1750,	800	
+		MassSVT40_Green,		W,		1750,	800	
+		MassSVT40_Camo,			W,		1750,	800
+		MassAR15,				W,		1750,	800
+		MassType81,				W,		1750,	800
+		MassPpskn,				W,		1750,	800	
+		
+	<Category> Sniper Rifles
+		Massm300,				W,		2300,	1100	
+		Massm300_camo,			W,		2300,	1100
+
+
+	<Category> Ammunition
+		Ammo_12GaBB,			20,		40,	    20
+		Ammo_408Chey,			20,		0,		0
+		Ammo_338,               20,		0,		0
+		MassAmmoBox_556x45_10Rnd, 1,    0,      0
+		AmmoBox_408Chey,		  1,    0,      0
+		AmmoBox_12gaBB,           1,    0,      0
+		AmmoBox_338,              1,    0,	    0
+		
+	<Category> Magazines
+		MassSVTmag,						M,		300,	150	
+		Massm300mag,					M,		300,	150
+		Mass308STANAG,					M,		300,	150	
+		Mass762Stanag,					M,		300,	150	
+		Massppshdrum,					M,		300,	150	
+		Massppshbox,					M,		300,	150	
+		Mass9x39Palm,					M,		300,	150
+		Scout556mag,					M,		300,	150
+		kivaarimag,						M,		300,	150
+		MassG18Mag,						M,		300,	150
+		
+	<Category> Supressors
+		M4_Suppressor,			*,		3000,	1500
+		MassScoutSuppressor,			*,		3000,	1500	
+		shotgun_Suppressor,				*,		1500,	750	
+		MassSuppressor308,				*,		3000,	1500
+		MassSVTMount,					*,		0,		0
+		
+		
+	<Category> Armbands
+		MassArmband_TU,					*,		15,	5	
+		MassArmband_NCR,				*,		15,	5	
+		MassArmband_snowBDU,			*,		15,	5	
+		MassArmband_PartizanM,			*,		15,	5	
+		MassArmband_Mandrake,			*,		15,	5	
+		MassArmband_Woodland,			*,		15,	5	
+		MassArmband_Urban,				*,		15,	5	
+		MassArmband_Orel,				*,		15,	5	
+		MassArmband_BWS,				*,		15,	5	
+		MassArmband_BT,					*,		15,	5
+		
+	<Category> Gloves
+		MassNBCglovesBlue,				*,		65,	20
+		
+	<Category> Hats & Caps
+		Massurbancamohat,				*,		100,	50	
+		MasscamoBooniehat,				*,		100,	50	
+		MassBeigeUshanka,				*,		100,	50	
+		MassHuntingCowboyhat,			*,		100,	50	
+		MassWinterHuntingHood,			*,		100,	50	
+		MassNBChoodYellow,				*,		500,	250
+
+	<Category> Helmets
+		Massmichblack,			*,		300,	150
+		
+		
+	<Category> Shirts
+		MassTropicamTop,				*,		50,	25	
+		MassMandraketop,				*,		50,	25	
+		MassWinterHunterTop,			*,		50,	25
+		MassGokuShirt,			*,		100,	50
+
+	<Category> Hoodies & Sweater
+		Masswoodlandcamosweater,		*,		40,	20	
+		MassCamoHoodie,					*,		40,	20
+		
+	<Category> Vests
+		Mass_PressVestBlack,			*,		500,	250	
+		Masswoodlandcamovest,			*,		500,	250	
+		MassSmershvestcomplete,			*,		500,	250	
+		MassSmershvestWintercomplete,	*,		500,	250	
+		MassUKAssVestWinter,			*,		500,	250	
+		MassPlateCarrierHolster_Black,		*,		500,	250	
+		MassPlateCarrierHolster_PartizanM,	*,		500,	250	
+		MassPlateCarrierHolster_Winter,		*,		500,	250	
+		MassPlateCarrierHolster_ODG,		*,		500,	250	
+		MassPlateCarrierPouches_Black,		*,		500,	250	
+		MassPlateCarrierPouches_PartizanM,	*,		500,	250	
+		MassPlateCarrierPouches_Winter,		*,		500,	250	
+		MassPlateCarrierPouches_ODG,		*,		500,	250	
+		MassPlateCarrier_PartizanM,		*,		500,	250	
+		MassPlateCarrier_Black,			*,		500,	250	
+		MassPlateCarrier_Winter,		*,		500,	250	
+		MassPlateCarrier_ODG,			*,		500,	250	
+		MassHeavyPlateVest_ODG,			*,		500,	250	
+		MassHeavyPlateVest_Winter,		*,		500,	250	
+		MassHeavyPlateVest_Black,		*,		500,	250	
+		MassHeavyPlateVest_PartizanM,	*,		500,	250	
+		MassHeavyPlateVest_Beige,		*,		500,	250	
+		MassSmershvestWW2complete,		*,		500,	250	
+		MassSmershvestblackcomplete,	*,		500,	250
+		
+	<Category> Jackets & Coats
+		MassWinterCUUJacket,			*,		400,	150	
+		MassWinterBDUJacket,			*,		400,	150	
+		MassTUhikingjacket,				*,		400,	150
+		MassNBCJacketYellow,			*,		400,	150	
+		MassBlackJacket,				*,		400,	150	
+		MassBeigeJacket,				*,		400,	150
+		MassCamoHoodie,					*,		400,	150	
+		MassCUUquiltedJacket,			*,		400,	150
+		MassSM90Top,					*,		400,	150	
+		MassSM90WTop,					*,		400,	150	
+		MassBlackGorkatop,				*,		400,	150	
+		MassGorkaInvertWinterTop,		*,		400,	150	
+		MassGorkaInvertWoodlandTop,		*,		400,	150	
+		MassGorkaInvertFlecktarnTop,	*,		400,	150	
+		MassUSww2top,					*,		400,	150
+		MassOrelTopgreen,				*,		400,	150
+
+	<Category> Pants
+		MassNBCpantsYellow,				*,		500,	250	
+		MassBlackGorkabottom,			*,		200,	100	
+		MassGorkaInvertWinterPants,		*,		200,	100	
+		MassGorkaInvertWoodlandPants,	*,		200,	100	
+		MassGorkaInvertFlecktarnPants,	*,		200,	100	
+		MassTropicamPants,				*,		200,	100	
+		Masswoodlandcargopants,			*,		200,	100	
+		Massurbancamocargopants,		*,		200,	100	
+		Massjeanshorts,					*,		200,	100	
+		MassMandrakebottom,				*,		200,	100	
+		MassWinterCUUPants,				*,		200,	100	
+		MassWinterBDUPants,				*,		200,	100	
+		MassWinterHunterPants,			*,		200,	100	
+		Massorelpantsgreen,				*,		200,	100	
+		MassSM90Pants,					*,		200,	100	
+		MassSM90WPants,					*,		200,	100	
+		Msp_SantaPants,											*,		100,	50
+
+	
+	<Category> Shoes & Boots
+		MassNBCbootsYellow,				*,		500,	250	
+
+	<Category> Ghillie
+		MassGhillieSuitWoodland,		*,		1000,	250	
+		MassGhillieSuitMossy,			*,		1000,	250	
+		MassGhillieSuitSnow,			*,		1000,	250	
+		MassGhillieTopWoodland,			*,		600,	250	
+		MassGhillieTopMossy,			*,		600,	250	
+		MassGhillieTopSnow,				*,		600,	250	
+		MassGhillieHood_Woodland,		*,		220,	100	
+		MassGhillieHood_Snowy,			*,		220,	100	
+		MassGhillieHoodMossy,			*,		220,	100	
+		MassGhillieSuitBoxWoodland,		*,		1500,	700	
+		MassGhillieSuitBoxMossy,		*,		1500,	700	
+		MassGhillieSuitBoxWinter,		*,		1500,	700	
+		MassGhillieTopBoxWoodland,		*,		1500,	700	
+		MassGhillieTopBoxWinter,		*,		1500,	700	
+		MassGhillieTopBoxMossy,			*,		1500,	700	
+		MassWinterGhillieWrap,			*,		1000,	250	
+		
+	<Category> Belt
+		MassToolbelt,					*,		75,	25
+		
+	<Category> Bags
+		MassImprovisedBag_Black,		*,		500,	250	
+		MassImprovisedBag_Blue,			*,		500,	250	
+		MassImprovisedBag_Green,		*,		500,	250	
+		MassImprovisedBag_Orange,		*,		500,	250	
+		MassImprovisedBag_Pink,			*,		500,	250	
+		MassImprovisedBag_Red,			*,		500,	250	
+		MassImprovisedBag_Yellow,		*,		500,	250	
+		MassImprovisedBag_Woodland,		*,		500,	250	
+		MassImprovisedBag_Partizan,		*,		500,	250	
+		MassImprovisedBag_Urban,		*,		500,	250
+		MassRainCoatcourier_Black,		*,		500,	250	
+		MassRainCoatcourier_Blue,		*,		500,	250	
+		MassRainCoatcourier_Green,		*,		500,	250	
+		MassRainCoatcourier_Orange,		*,		500,	250	
+		MassRainCoatcourier_Pink,		*,		500,	250	
+		MassRainCoatcourier_Red,		*,		500,	250	
+		MassRainCoatcourier_Yellow,		*,		500,	250	
+		MassRainCoatcourier_Woodland,	*,		500,	250	
+		MassRainCoatcourier_Urban,		*,		500,	250	
+		MassRuckBagDesert,				*,		500,	250
+		MassRuckBagBlack,				*,		500,	250
+		MassRuckBagGorka,				*,		500,	250
+		MassRuckBagGreen,				*,		500,	250
+		MassMolleBagBlack,				*,		500,	250	
+		MassMolleBagDesert,				*,		500,	250	
+		MassMolleBagGorka,				*,		500,	250	
+		Massbag,						*,		500,	250	
+		Massbag2,						*,		500,	250	
+		Massbag3,						*,		500,	250	
+		Massbag4,						*,		500,	250	
+		MassSmershblack,				*,		500,	250
+		MassBlackYellowMB,				*,		500,	250	
+		Massczech,						*,		500,	250	
+		MassczechWinter,				*,		500,	250	
+		MassWinterTortilla,				*,		500,	250	
+		MasscamoTaloon,					*,		500,	250	
+		MasscamoTaloon1,				*,		500,	250	
+		Massbrownhuntingbp,				*,		500,	250	
+		Massblackhuntingbp,				*,		500,	250	
+		MassWinterHuntingbp,			*,		500,	250	
+		MassBlackYellowMB,				*,		500,	250
+		MassCanvasBag,					*,		500,	250	
+		Massbrownhuntingbp,				*,		500,	250	
+		Massblackhuntingbp,				*,		500,	250	
+		MassWinterHuntingbp,			*,		500,	250
+		Massczech,						*,		500,	250	
+		MassczechWinter,				*,		500,	250	
+		MassWinterTortilla,				*,		500,	250	
+		MasscamoTaloon,					*,		500,	250	
+		MasscamoTaloon1,				*,		500,	250	
+		Massbrownhuntingbp,				*,		500,	250	
+		Massblackhuntingbp,				*,		500,	250	
+		MassWinterHuntingbp,			*,		500,	250	
+		MassSmershwinter,				*,		500,	250	
+		MassCoyoteBPUrban,				*,		500,	250	
+		Massmedbag,						*,		400,	250	
+		Massmedbag_blue,				*,		400,	250	
+		Massmedbag_green,				*,		400,	250		
+		MassMedical_Bag,				*,		400,	250	
+		MassMedical_Bag_Blue,			*,		400,	250	
+		MassMedical_Bag_Green,			*,		400,	250	
+		MassNBC_Bag,					*,		400,	250
+		MassSmersh,						*,		400,	250
+	
+		
